@@ -1,3 +1,4 @@
 # Database system with gui
- 2
-You enter with your username and password then can add, delete, update people informations via gui.
+
+You enter with your username and password.
+Then you can add, delete, update people informations from SQL database via gui.
